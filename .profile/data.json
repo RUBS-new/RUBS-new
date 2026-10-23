@@ -1,13 +1,13 @@
 {
- "key": "981042d3",
- "stars": 1,
- "contributions": 20,
+ "key": "fa2fa9a7",
+ "stars": 2,
+ "contributions": 30,
  "repos": 3,
  "followers": 0,
  "languages": [
   [
    "HTML",
-   86927
+   92387
   ],
   [
    "Python",
@@ -116,7 +116,7 @@
     "today": false
    },
    {
-    "c": 3,
+    "c": 13,
     "day": 23,
     "today": true
    },
@@ -130,20 +130,20 @@
  "pins": [],
  "all": [
   {
-   "name": "tg-star-gifts",
-   "url": "https://github.com/RUBS-new/tg-star-gifts",
-   "text": "Web UI for sending Telegram Star Gifts via MTProto (Telethon + FastAPI)",
+   "name": "My_site",
+   "url": "https://github.com/RUBS-new/My_site",
+   "text": "",
    "fork": false,
    "stars": 1,
    "language": "HTML",
    "topics": []
   },
   {
-   "name": "My_site",
-   "url": "https://github.com/RUBS-new/My_site",
-   "text": "",
+   "name": "tg-star-gifts",
+   "url": "https://github.com/RUBS-new/tg-star-gifts",
+   "text": "Web UI for sending Telegram Star Gifts via MTProto (Telethon + FastAPI)",
    "fork": false,
-   "stars": 0,
+   "stars": 1,
    "language": "HTML",
    "topics": []
   },
